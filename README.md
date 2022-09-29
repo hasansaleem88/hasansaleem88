@@ -58,8 +58,8 @@ Here are some ideas to get you started:
 
 
 
-![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hassanjani&count_private=true&show_icons=true&theme=github_dark&hide_border=true&custom_title=Hasan's%20GitHub%20Stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hassanjani&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
-[![Hasan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hassanjani&bg_color=0D1117&color=FFFFFF&line=4B8DDA&point=1F6FEB&custom_title=Hasan's%20Contribution%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Hasan's GitHub stats](https://github-readme-stats.vercel.app/api?username=hasansaleem88&count_private=true&show_icons=true&theme=github_dark&hide_border=true&custom_title=Hasan's%20GitHub%20Stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hasansaleem88&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+[![Hasan's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hasansaleem88&bg_color=0D1117&color=FFFFFF&line=4B8DDA&point=1F6FEB&custom_title=Hasan's%20Contribution%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
